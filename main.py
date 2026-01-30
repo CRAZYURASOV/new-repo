@@ -18,3 +18,8 @@ def calc():
     elif c == '/':
         print(a / b)
 print(calc())
+
+
+def hello():
+    print('Hello World from Python')
+print(hello())
