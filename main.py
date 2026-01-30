@@ -23,3 +23,6 @@ print(calc())
 def hello():
     print('Hello World from Python')
 print(hello())
+
+
+print("Hello from Python, Docker and Github")
